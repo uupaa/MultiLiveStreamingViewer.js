@@ -1,0 +1,6 @@
+lib/plugin/*
+test/*
+
+
+node_modules
+
